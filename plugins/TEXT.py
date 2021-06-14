@@ -2,8 +2,8 @@
 drive_folder_name = "U2GD_bot"
 
 # Enter Your Mega email And Pass (Required)
-MEGA_EMAIL = "email"
-MEGA_PASSWORD = "password"
+MEGA_EMAIL = "c.ol.sanders7016@gmail.com"
+MEGA_PASSWORD = "colsanders.123"
 
 START = "Hi {}  \nI am Upload 2 Drive Bot.\nPlease Authorise To use me.\nBy using /auth \n\nFor more info /help\n\nPlease Report Bugs @aryanvikash"
 
